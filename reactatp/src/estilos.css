@@ -1,0 +1,25 @@
+body{
+    margin:5px;
+}
+
+button{
+    width: 100px;
+    padding: 10px;
+    border: none;
+    text-align: center;
+    background-color: rgb(201, 255, 160);
+    color: black;
+    cursor: pointer;
+    margin: 3px;
+}
+
+button:hover{
+    background-color: rgb(129, 255, 194);
+}
+
+input{
+    width: 200px;
+    padding: 10px;
+    border: solid 1px #fff5a7;
+    margin: 3px;
+}
